@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OV5nJR1WxWPctQoche9aXl4bVJO0UUT8H+2wgopbo3aXPGpkcm8HrHejq35Sv65d2iRssTHRZPwgmOsQBkm76g==",
+  "dgSpecHash": "8yL/ak2tG29m+o6e1z1+6/U23ceYLJw841uMuoa/eBqPs3RKcYHNHjUYdVIxnAO4uFvLdxdPKxfC3NcmJ2cTTg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj",
+  "projectFilePath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

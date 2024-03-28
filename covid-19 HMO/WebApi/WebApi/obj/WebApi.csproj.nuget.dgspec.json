@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj": {}
+    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Common\\Common.csproj": {
+    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Common\\Common.csproj",
+        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Common\\obj\\",
+        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj": {
+    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj",
         "projectName": "DataContext",
-        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj",
+        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\DataContext\\obj\\",
+        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\DataContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj"
+              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj": {
+    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj",
+        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Repository\\obj\\",
+        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -213,14 +213,14 @@
         }
       }
     },
-    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Service\\Service.csproj": {
+    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Service\\Service.csproj",
+        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Service\\obj\\",
+        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -241,11 +241,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Common\\Common.csproj": {
-                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Common\\Common.csproj"
+              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Common\\Common.csproj": {
+                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Common\\Common.csproj"
               },
-              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj"
+              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Repository\\Repository.csproj"
               }
             }
           }
@@ -289,14 +289,14 @@
         }
       }
     },
-    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj": {
+    "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\WebApi\\obj\\",
+        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -317,11 +317,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj": {
-                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj"
+              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj": {
+                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj"
               },
-              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Service\\Service.csproj": {
-                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Service\\Service.csproj"
+              "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Service\\Service.csproj": {
+                "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Service\\Service.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L0mqwfJLnlxZyOh3OTtQQnOR78V/EMTUPDevpRIQEOLmjmeWEgH7b3K8W0lRX3R9Wiwu4J9o8+wDn8si0hSDsQ==",
+  "dgSpecHash": "KR0dPKnedZ/TI5yPZOBroN6EjNiY5gDhG1zJMGHij5QUh9dHELKhudKbH3Ii2aqUOT/adAIlVKeEoRxCfDSfOg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -34,3 +34,15 @@ D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\
 D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\refint\Repository.dll
 D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\Repository.pdb
 D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\bin\Debug\net6.0\Repository.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\Repository.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Repository\obj\Debug\net6.0\ref\Repository.dll

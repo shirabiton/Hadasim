@@ -3478,11 +3478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\WebApi\\obj\\",
+      "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3503,11 +3503,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj": {
-              "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj"
+            "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj": {
+              "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj"
             },
-            "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Service\\Service.csproj": {
-              "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\Service\\Service.csproj"
+            "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Service\\Service.csproj": {
+              "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Service\\Service.csproj"
             }
           }
         }

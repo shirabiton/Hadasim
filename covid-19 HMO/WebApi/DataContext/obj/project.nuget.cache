@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B6eBzZ1R0VfCT8DpL+KBpzvyScK/pE+Eg3Us+REdk5r759EehyOZ86D93pkZfoJtW4CLAKanYBL8hjEMJ7uI3g==",
+  "dgSpecHash": "ILYzNX/ThzCkFoooyqYoEITZmNi5qN+4zGV5b27m+ASQTzFhLSKKu9a89cr1TXZBiwNfK6oaWDoJZs1F+6AF0g==",
   "success": true,
-  "projectFilePath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\להגשה\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj",
+  "projectFilePath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\DataContext\\DataContext.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
