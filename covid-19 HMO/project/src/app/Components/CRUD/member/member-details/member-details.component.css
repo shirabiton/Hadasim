@@ -1,0 +1,10 @@
+.icon-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 3vh;
+}
+
+.icon {
+    padding: 2vw;
+}

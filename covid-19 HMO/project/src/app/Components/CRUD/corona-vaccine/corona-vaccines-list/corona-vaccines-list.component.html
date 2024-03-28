@@ -1,0 +1,22 @@
+<h1>חיסונים</h1>
+
+<ng-container
+    *ngIf="filteredCoronaVaccinesList.length > 0 && manufacturers.length == filteredCoronaVaccinesList.length">
+    <mat-list>
+        <ng-container *ngFor="let coronaVaccine of filteredCoronaVaccinesList; let i = index,  let last = last">
+            <div style="width: 40%; margin: 0 auto;" class="list-item">
+                <mat-list-item>
+                    <h3 *ngIf="coronaVaccine.date">תאריך: {{ coronaVaccine.date | date: 'dd/MM/yyyy' }}</h3>
+                    <h3 *ngIf="!coronaVaccine.date">תאריך: -</h3>
+                </mat-list-item>
+                <mat-list-item>
+                    <h3>יצרן: {{ manufacturers[i].name || '-' }}</h3>
+                </mat-list-item>
+            </div>
+            <mat-divider *ngIf="!last" style="width: 40%; height: initial; margin: 0 auto;"></mat-divider>
+        </ng-container>
+    </mat-list>
+
+</ng-container>
+
+<h3 *ngIf="filteredCoronaVaccinesList.length == 0">-- לא נמצאו חיסונים --</h3>

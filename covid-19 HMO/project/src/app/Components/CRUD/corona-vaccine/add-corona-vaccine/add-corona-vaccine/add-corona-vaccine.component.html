@@ -1,0 +1,30 @@
+<h1>הוספת חיסון לחבר</h1>
+
+<ng-container *ngIf="filteredCoronaVaccines && filteredCoronaVaccines.length<4">
+    <form [formGroup]="addForm">
+
+        <div>
+            <mat-form-field color="accent">
+                <mat-label>תאריך</mat-label>
+                <input matInput type="date" formControlName="date">
+                <mat-error
+                    *ngIf="addForm.controls['date'].invalid && (addForm.controls['date'].dirty || addForm.controls['date'].touched)">
+                    <div *ngIf="addForm.controls['date'].hasError('required')">זהו שדה חובה</div>
+                    <div *ngIf="addForm.controls['date'].hasError('minDateValidator')">נדרש תאריך עתידי</div>
+                </mat-error>
+            </mat-form-field>
+        </div>
+
+
+        <app-manufacturers [form]="addForm"></app-manufacturers>
+
+
+    </form>
+
+    <button mat-raised-button color="accent" [disabled]="addForm.invalid" (click)="save()">הוסף</button>
+
+</ng-container>
+
+<h3 *ngIf="filteredCoronaVaccines.length>=4">
+    מספר החיסונים לחבר מוגבל ל 4
+</h3>

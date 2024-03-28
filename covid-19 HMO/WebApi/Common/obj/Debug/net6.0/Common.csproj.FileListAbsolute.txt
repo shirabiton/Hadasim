@@ -1,0 +1,33 @@
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\Common\obj\Debug\net6.0\ref\Common.dll

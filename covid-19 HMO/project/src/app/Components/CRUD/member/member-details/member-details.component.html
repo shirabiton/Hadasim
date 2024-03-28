@@ -1,0 +1,31 @@
+<h1>פרטי חבר</h1>
+
+<div *ngIf="member && city">
+    <h3>שם: {{ member.name || '-' }}</h3>
+    <h3>מספר זהות: {{member.idNumber || '-'}}</h3>
+    <h3>כתובת: רחוב {{member.street || '-'}} {{member.houseNumber || ''}} {{city.name || ''}}</h3>
+    <h3 *ngIf="member.birthDate">תאריך לידה: {{ member.birthDate | date: 'dd' }}/{{ member.birthDate | date: 'MM' }}/{{
+        member.birthDate | date:
+        'yyyy' }}</h3>
+    <h3 *ngIf="!member.birthDate">- :תאריך לידה</h3>
+    <h3>טלפון: {{member.phone || '-'}}</h3>
+    <h3 *ngIf="member.mobilePhone">טלפון נייד: {{member.mobilePhone || '-'}}</h3>
+    <h3 *ngIf="!member.mobilePhone">- :טלפון נייד</h3>
+    <h3 *ngIf="member.dateOfSickness">תאריך הידבקות: {{ member.dateOfSickness | date: 'dd' }}/{{
+        member.dateOfSickness | date: 'MM' }}/{{
+        member.dateOfSickness | date: 'yyyy' }}</h3>
+    <h3 *ngIf="!member.dateOfSickness">- :תאריך הידבקות</h3>
+    <h3 *ngIf="member.dateOfRecovery">תאריך החלמה: {{ member.dateOfRecovery | date: 'dd' }}/{{
+        member.dateOfRecovery | date: 'MM' }}/{{
+        member.dateOfRecovery | date: 'yyyy' }}</h3>
+    <h3 *ngIf="!member.dateOfRecovery">- :תאריך החלמה</h3>
+
+    <app-corona-vaccines-list [memberId]="member.id"></app-corona-vaccines-list>
+
+</div>
+
+<div class="icon-container">
+    <mat-icon (click)="goToAddCoronaVaccine()" title="הוסף חיסון לחבר זה" class="icon">add</mat-icon>
+    <mat-icon (click)="goToUpdateMember()" title="ערוך פרטי חבר" class="icon">edit</mat-icon>
+    <mat-icon (click)="delete()" title="מחק חבר" class="icon">delete</mat-icon>
+</div>

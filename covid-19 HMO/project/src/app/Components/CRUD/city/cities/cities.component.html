@@ -1,0 +1,8 @@
+<form [formGroup]="form">
+    <mat-form-field color="accent">
+        <mat-label>עיר:</mat-label>
+        <mat-select formControlName="cityId" aria-label="בחר עיר">
+            <mat-option *ngFor="let city of citiesList" [value]="city.id">{{city.name}}</mat-option>
+        </mat-select>
+    </mat-form-field>
+</form>

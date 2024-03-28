@@ -1,0 +1,20 @@
+<div id="search-box">
+    <mat-form-field color="accent" appearance="outline">
+        <mat-label>חיפוש</mat-label>
+        <input matInput type="text" [(ngModel)]="search" (input)="filterMembers()">
+        <mat-icon matSuffix>search</mat-icon>
+    </mat-form-field>
+</div>
+
+<h1>חברי הקופה</h1>
+
+<mat-list>
+    <ng-container *ngFor="let member of filterMembersList; let last = last">
+        <mat-list-item class="list-item" style="width: 40%; margin: 0 auto;" (click)="showDetails(member)">
+            <h3>{{member.name}}</h3>
+        </mat-list-item>
+        <mat-divider *ngIf="!last" style="width: 40%; margin: 0 auto;"></mat-divider>
+    </ng-container>
+</mat-list>
+
+<button mat-raised-button color="accent" (click)="goToAddMember()">הוסף חבר</button>

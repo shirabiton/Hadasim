@@ -1,0 +1,129 @@
+<h1>הוספת חבר</h1>
+
+<form [formGroup]="addForm">
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>שם</mat-label>
+            <input matInput formControlName="name">
+            <mat-error
+                *ngIf="addForm.controls['name'].invalid && (addForm.controls['name'].dirty || addForm.controls['name'].touched)">
+                <div *ngIf="addForm.controls['name'].hasError('required')">זהו שדה חובה</div>
+                <div *ngIf="addForm.controls['name'].hasError('minlength')">קצר מידי... מינימום 2 תווים לשם</div>
+                <div *ngIf="addForm.controls['name'].hasError('maxlength')">ארוך מידי... מקסימום 20 תווים לשם</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>מספר זהות</mat-label>
+            <input matInput formControlName="idNumber">
+            <mat-error
+                *ngIf="addForm.controls['idNumber'].invalid && (addForm.controls['idNumber'].dirty || addForm.controls['idNumber'].touched)">
+                <div *ngIf="addForm.controls['idNumber'].hasError('required')">זהו שדה חובה</div>
+                <div
+                    *ngIf="addForm.controls['idNumber'].hasError('minlength') || addForm.controls['idNumber'].hasError('maxlength')">
+                    מספר זהות לא תקין</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <app-cities [form]="addForm"></app-cities>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>רחוב</mat-label>
+            <input matInput formControlName="street">
+            <mat-error
+                *ngIf="addForm.controls['street'].invalid && (addForm.controls['street'].dirty || addForm.controls['street'].touched)">
+                <div *ngIf="addForm.controls['street'].hasError('required')">זהו שדה חובה</div>
+                <div *ngIf="addForm.controls['street'].hasError('minlength')">קצר מידי... מינימום 2 תווים לשם</div>
+                <div *ngIf="addForm.controls['street'].hasError('maxlength')">ארוך מידי... מקסימום 30 תווים לשם</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>מספר בית</mat-label>
+            <input matInput type="number" formControlName="houseNumber">
+            <mat-error
+                *ngIf="addForm.controls['houseNumber'].invalid && (addForm.controls['houseNumber'].dirty || addForm.controls['houseNumber'].touched)">
+                <div *ngIf="addForm.controls['houseNumber'].hasError('required')">זהו שדה חובה</div>
+                <div
+                    *ngIf="addForm.controls['houseNumber'].hasError('min') || addForm.controls['houseNumber'].hasError('max')">
+                    ערך לא חוקי</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>תאריך לידה</mat-label>
+            <input matInput type="date" formControlName="birthDate">
+            <mat-error
+                *ngIf="addForm.controls['birthDate'].invalid && (addForm.controls['birthDate'].dirty || addForm.controls['birthDate'].touched)">
+                <div *ngIf="addForm.controls['birthDate'].hasError('required')">זהו שדה חובה</div>
+                <div *ngIf="addForm.controls['birthDate'].hasError('maxDateValidator')">נדרש תאריך מוקדם מהיום</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>טלפון</mat-label>
+            <input matInput type="text" formControlName="phone">
+            <mat-error
+                *ngIf="addForm.controls['phone'].invalid && (addForm.controls['phone'].dirty || addForm.controls['phone'].touched)">
+                <div *ngIf="addForm.controls['phone'].hasError('required')">זהו שדה חובה</div>
+                <div
+                    *ngIf="addForm.controls['phone'].hasError('minlength') || addForm.controls['phone'].hasError('maxlength')">
+                    מספר טלפון לא חוקי</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>טלפון נייד</mat-label>
+            <input matInput type="text" formControlName="mobilePhone">
+            <mat-error
+                *ngIf="addForm.controls['mobilePhone'].invalid && (addForm.controls['mobilePhone'].dirty || addForm.controls['mobilePhone'].touched)">
+                <div
+                    *ngIf="addForm.controls['mobilePhone'].hasError('minlength') || addForm.controls['mobilePhone'].hasError('maxlength')">
+                    מספר טלפון לא חוקי</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>תאריך הידבקות</mat-label>
+            <input matInput type="date" formControlName="dateOfSickness">
+            <mat-error
+                *ngIf="addForm.controls['dateOfSickness'].invalid && (addForm.controls['dateOfSickness'].dirty || addForm.controls['dateOfSickness'].touched)">
+                <div
+                    *ngIf="addForm.controls['dateOfSickness'].hasError('maxDateValidator')">
+                    ערך לא חוקי</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>תאריך החלמה</mat-label>
+            <input matInput type="date" formControlName="dateOfRecovery">
+            <mat-error
+            *ngIf="addForm.controls['dateOfRecovery'].invalid && (addForm.controls['dateOfRecovery'].dirty || addForm.controls['dateOfRecovery'].touched)">
+            <div
+                *ngIf="addForm.controls['dateOfRecovery'].hasError('maxDateValidator')">
+               ערך לא חוקי</div>
+        </mat-error>
+        </mat-form-field>
+    </div>
+
+</form>
+
+<button mat-raised-button color="accent" [disabled]="addForm.invalid" (click)="save()">הוסף</button>

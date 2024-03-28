@@ -1,0 +1,124 @@
+<h1>עדכון חבר</h1>
+
+<form [formGroup]="updateForm">
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>שם</mat-label>
+            <input matInput formControlName="name">
+            <mat-error
+                *ngIf="updateForm.controls['name'].invalid && (updateForm.controls['name'].dirty || updateForm.controls['name'].touched)">
+                <div *ngIf="updateForm.controls['name'].hasError('required')">זהו שדה חובה</div>
+                <div *ngIf="updateForm.controls['name'].hasError('minlength')">קצר מידי... מינימום 2 תווים לשם</div>
+                <div *ngIf="updateForm.controls['name'].hasError('maxlength')">ארוך מידי... מקסימום 20 תווים לשם</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>מספר זהות</mat-label>
+            <input matInput formControlName="idNumber">
+            <mat-error
+                *ngIf="updateForm.controls['idNumber'].invalid && (updateForm.controls['idNumber'].dirty || updateForm.controls['idNumber'].touched)">
+                <div *ngIf="updateForm.controls['idNumber'].hasError('required')">זהו שדה חובה</div>
+                <div
+                    *ngIf="updateForm.controls['idNumber'].hasError('minlength') || updateForm.controls['idNumber'].hasError('maxlength')">
+                    מספר זהות לא תקין</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <app-cities [form]="updateForm"></app-cities>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>רחוב</mat-label>
+            <input matInput formControlName="street">
+            <mat-error
+                *ngIf="updateForm.controls['street'].invalid && (updateForm.controls['street'].dirty || updateForm.controls['street'].touched)">
+                <div *ngIf="updateForm.controls['street'].hasError('required')">זהו שדה חובה</div>
+                <div *ngIf="updateForm.controls['street'].hasError('minlength')">קצר מידי... מינימום 2 תווים לשם</div>
+                <div *ngIf="updateForm.controls['street'].hasError('maxlength')">ארוך מידי... מקסימום 30 תווים לשם</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>מספר בית</mat-label>
+            <input matInput type="number" formControlName="houseNumber">
+            <mat-error
+                *ngIf="updateForm.controls['houseNumber'].invalid && (updateForm.controls['houseNumber'].dirty || updateForm.controls['houseNumber'].touched)">
+                <div *ngIf="updateForm.controls['houseNumber'].hasError('required')">זהו שדה חובה</div>
+                <div
+                    *ngIf="updateForm.controls['houseNumber'].hasError('min') || updateForm.controls['houseNumber'].hasError('max')">
+                    ערך לא חוקי</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>תאריך לידה</mat-label>
+            <input matInput type="date" formControlName="birthDate">
+            <mat-error
+                *ngIf="updateForm.controls['birthDate'].invalid && (updateForm.controls['birthDate'].dirty || updateForm.controls['birthDate'].touched)">
+                <div *ngIf="updateForm.controls['birthDate'].hasError('required')">זהו שדה חובה</div>
+                <div *ngIf="updateForm.controls['birthDate'].hasError('maxDateValidator')">ערך לא חוקי</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>טלפון</mat-label>
+            <input matInput type="text" formControlName="phone">
+            <mat-error
+                *ngIf="updateForm.controls['phone'].invalid && (updateForm.controls['phone'].dirty || updateForm.controls['phone'].touched)">
+                <div *ngIf="updateForm.controls['phone'].hasError('required')">זהו שדה חובה</div>
+                <div
+                    *ngIf="updateForm.controls['phone'].hasError('minlength') || updateForm.controls['phone'].hasError('maxlength')">
+                    מספר טלפון לא חוקי</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>טלפון נייד</mat-label>
+            <input matInput type="text" formControlName="mobilePhone">
+            <mat-error
+                *ngIf="updateForm.controls['mobilePhone'].invalid && (updateForm.controls['mobilePhone'].dirty || updateForm.controls['mobilePhone'].touched)">
+                <div
+                    *ngIf="updateForm.controls['mobilePhone'].hasError('minlength') || updateForm.controls['mobilePhone'].hasError('maxlength')">
+                    מספר טלפון לא חוקי</div>
+            </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>תאריך הידבקות</mat-label>
+            <input matInput type="date" formControlName="dateOfSickness">
+            <mat-error
+            *ngIf="updateForm.controls['dateOfSickness'].invalid && (updateForm.controls['dateOfSickness'].dirty || updateForm.controls['dateOfSickness'].touched)">
+            <div *ngIf="updateForm.controls['dateOfSickness'].hasError('maxDateValidator')">ערך לא חוקי</div>
+        </mat-error>
+        </mat-form-field>
+    </div>
+
+    <div>
+        <mat-form-field color="accent">
+            <mat-label>תאריך החלמה</mat-label>
+            <input matInput type="date" formControlName="dateOfRecovery">
+            <mat-error
+            *ngIf="updateForm.controls['dateOfRecovery'].invalid && (updateForm.controls['dateOfRecovery'].dirty || updateForm.controls['dateOfRecovery'].touched)">
+            <div *ngIf="updateForm.controls['dateOfRecovery'].hasError('maxDateValidator')">ערך לא חוקי</div>
+        </mat-error>
+        </mat-form-field>
+    </div>
+
+</form>
+
+<button mat-raised-button color="accent" [disabled]="updateForm.invalid" (click)="save()">שמור שינויים</button>

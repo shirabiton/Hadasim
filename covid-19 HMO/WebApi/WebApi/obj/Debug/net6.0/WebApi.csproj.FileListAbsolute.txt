@@ -1,0 +1,291 @@
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\appsettings.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\WebApi.exe
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\WebApi.deps.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\WebApi.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\DataContext.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Repository.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Service.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\DataContext.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Service.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Common.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\bin\Debug\net6.0\Repository.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\appsettings.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.exe
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.deps.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\DataContext.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Repository.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Service.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\DataContext.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Service.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Common.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\bin\Debug\net6.0\Repository.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\HMO\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\appsettings.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.exe
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.deps.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\WebApi.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Common.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\DataContext.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Repository.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Service.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\DataContext.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Service.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Common.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\bin\Debug\net6.0\Repository.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+D:\Users\User\Desktop\הדסים\מבחן בית\להגשה\covid-19 HMO\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
