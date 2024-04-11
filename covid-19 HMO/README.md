@@ -56,9 +56,9 @@
 ## אופן השימוש
 
 מדף הבית לחיצה על הכפתור 'חברי הקופה' מביא לרשימת השמות המלאים של כל חברי הקופה. ניתן לחפש חבר מסויים על פי שם בתיבת החיפוש.
-נוסיף חבר קופה חדש בלחיצה על הכפתור 'הוסף חבר'.
+נוסיף חבר קופה חדש בלחיצה על הפלוס, הוספת תמונת פרופיל לחבר-אופציונלי.
 לחיצה על חבר מסויים תביא אותנו לפרטים המלאים שלו, 
-על ידי לחיצה על האייקונים בתחתית העמוד נוכל לערוך פרטי חבר, למחוק חבר או להוסיף לו חיסונים.
+לחיצה על האייקונים בתחתית העמוד תאפשר לנו לערוך פרטי חבר, למחוק חבר או להוסיף לו חיסונים.
 בכל שלב, לחיצה על הלוגו בראש הדף תנווט אל דף הבית.
 
 
@@ -66,10 +66,15 @@
 
 ## צילומי מסך
 ![Homepage](screenshots/home.png)
+<!-- Empty line -->
 ![membersList](screenshots/members-list.png)
+<!-- Empty line -->
 ![addMember](screenshots/add-member.png)
+<!-- Empty line -->
 ![memberDetails](screenshots/member-details.png)
+<!-- Empty line -->
 ![updateMember](screenshots/update-member.png)
+<!-- Empty line -->
 ![addVaccine](screenshots/add-vaccine.png)
 
 
