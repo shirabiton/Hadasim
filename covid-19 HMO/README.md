@@ -66,12 +66,17 @@
 
 ## צילומי מסך
 ![Homepage](screenshots/home.png)
+<br><hr><br>
 ![membersList](screenshots/members-list.png)
+<br><hr><br>
 ![addMember](screenshots/add-member.png)
+<br><hr><br>
 ![memberDetails](screenshots/member-details.png)
+<br><hr><br>
 ![updateMember](screenshots/update-member.png)
+<br><hr><br>
 ![addVaccine](screenshots/add-vaccine.png)
-
+<br><hr><br>
 
 
 
