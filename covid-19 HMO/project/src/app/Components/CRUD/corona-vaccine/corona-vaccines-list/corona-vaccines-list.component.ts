@@ -22,7 +22,8 @@ export class CoronaVaccinesListComponent implements OnInit {
   public filteredCoronaVaccinesList: CoronaVaccine[] = [];
   public manufacturers: Manufacturer[] = [];
 
-  @Input() memberId!: number;
+  @Input() 
+  memberId!: number;
 
   constructor(
     private _coronaVaccineService: CoronaVaccineService,

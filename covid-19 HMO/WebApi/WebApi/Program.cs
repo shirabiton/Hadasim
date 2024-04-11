@@ -15,8 +15,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddService(); 
 builder.Services.AddDbContext<IContext, Db>(); 
-//builder.Services.AddEndpointsApiExplorer();
-//builder.Services.AddSwaggerGen();
+
 
 
 // הוספת הרשאת CRUD מהלקוח
@@ -38,8 +37,6 @@ builder.Services.AddCors(option =>
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-// {c => c.SwaggerDoc("v1", new OpenApiInfo { Title = "MyWebProject", Version })}
 
 var app = builder.Build();
 

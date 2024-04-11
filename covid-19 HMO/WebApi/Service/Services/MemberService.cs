@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Common.Dto;
+using Microsoft.EntityFrameworkCore;
 using Repository.Entities;
 using Repository.Interfaces;
 using Service.Interface;
@@ -25,8 +26,15 @@ namespace Service.Services
         }
         public MemberDto Add(MemberDto entity)
         {
-            // המרה מ MemberDto ל Member ע"י Mapper
-            return _mapper.Map<MemberDto>(_repository.Add(_mapper.Map<Member>(entity)));
+            if (_repository.GetAll().Any(m => m.IdNumber == entity.IdNumber))
+            {
+                throw new InvalidOperationException("Member numberId must be unique.");
+            }
+            else
+            {
+                // המרה מ MemberDto ל Member ע"י Mapper
+                return _mapper.Map<MemberDto>(_repository.Add(_mapper.Map<Member>(entity)));
+            }
         }
         
         public void Delete(int id)

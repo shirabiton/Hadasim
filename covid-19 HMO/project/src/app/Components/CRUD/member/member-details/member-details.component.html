@@ -1,6 +1,12 @@
 <h1>פרטי חבר</h1>
 
 <div *ngIf="member && city">
+    <img *ngIf="member.imageUrl" [src]="member.imageUrl" style=" height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 0.01vh solid black;  
+    margin-bottom: 5vh;">
     <h3>שם: {{ member.name || '-' }}</h3>
     <h3>מספר זהות: {{member.idNumber || '-'}}</h3>
     <h3>כתובת: רחוב {{member.street || '-'}} {{member.houseNumber || ''}} {{city.name || ''}}</h3>

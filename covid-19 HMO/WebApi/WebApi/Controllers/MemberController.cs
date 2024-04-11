@@ -9,7 +9,7 @@ namespace WebApi.Controllers
     public class MemberController : ControllerBase
     {
         private readonly IService<MemberDto> service;
-
+        
         public MemberController(IService<MemberDto> service)
         {
             this.service = service;            
@@ -26,22 +26,62 @@ namespace WebApi.Controllers
         [HttpGet("{id}")]
         public MemberDto Get(int id)
         {
-            return service.GetById(id);
+            MemberDto member = service.GetById(id);
+            if (member.ImageUrl != null) { 
+
+                member.ImageUrl = GetImage(member.ImageUrl);
+            }
+            return member;
         }
 
-        // POST api/<MemberController>
+
         [HttpPost]
-        public MemberDto Post([FromBody] MemberDto value)
+
+        // task-אסינכרוני
+        public async Task<MemberDto> Post([FromForm] MemberDto item)
         {
-            return service.Add(value);
+            if (item == null)
+            {
+                throw new ArgumentNullException();
+            }
+            if (item.Image != null)
+            {
+                var image = item.Image;
+                var path = Path.Combine(Environment.CurrentDirectory, "Images/members/", image.FileName);
+                item.ImageUrl = path;
+
+                using (FileStream stream = new FileStream(path, FileMode.Create))
+                {
+                    await image.CopyToAsync(stream);
+                    stream.Close();
+                }
+            }
+
+            return service.Add(item);
         }
 
         // PUT api/<MemberController>/5
         [HttpPut("{id}")]
-        public MemberDto Put(int id, [FromBody] MemberDto value)
+        public async Task<MemberDto> Put(int id, [FromForm] MemberDto item)
         {
-            return service.Update(id, value);
+            if (item == null)
+            {
+                throw new ArgumentNullException();
+            }
+            if (item.Image != null)
+            {
+                var image = item.Image;
+                var path = Path.Combine(Environment.CurrentDirectory, "Images/members/", image.FileName);
+                item.ImageUrl = path;
+                using (FileStream stream = new FileStream(path, FileMode.Create))
+                {
+                    await image.CopyToAsync(stream);
+                    stream.Close();
+                }
+            }
+            return service.Update(id, item);
         }
+
 
         // DELETE api/<MemberController>/5
         [HttpDelete("{id}")]
@@ -49,5 +89,17 @@ namespace WebApi.Controllers
         {
             service.Delete(id);
         }
+
+
+        [HttpGet("getImage/{ImageUrl}")]
+        public string GetImage(string ImageUrl)
+        {
+            var path = Path.Combine(Environment.CurrentDirectory, "Images/members/", ImageUrl);
+            byte[] bytes = System.IO.File.ReadAllBytes(path);
+            string imageBase64 = Convert.ToBase64String(bytes);
+            string image = string.Format("data:image/jpeg;base64,{0}", imageBase64);
+            return image;
+        }
+
     }
 }

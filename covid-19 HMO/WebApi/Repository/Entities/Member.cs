@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
@@ -21,10 +22,11 @@ namespace Repository.Entities
         public int HouseNumber { get; set; }
         public DateTime BirthDate { get; set; }
         public string Phone { get; set; }
-        public string MobilePhone { get; set; }
+        public string? MobilePhone { get; set; }
         public DateTime? DateOfSickness {  get; set; }
         public DateTime? DateOfRecovery {  get; set; }
-        //public ICollection<CorornaVaccine>? CorornaVaccines { get; set; }
+        public string? ImageUrl { get; set; }  // ייצוג ה URL של התמונה
+
 
     }
 }

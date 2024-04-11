@@ -57,6 +57,7 @@ namespace Repository.Repositories
                 prev.MobilePhone = entity.MobilePhone;
                 prev.DateOfSickness = entity.DateOfSickness;
                 prev.DateOfRecovery = entity.DateOfRecovery;
+                prev.ImageUrl=entity.ImageUrl;
             }
             else
             {

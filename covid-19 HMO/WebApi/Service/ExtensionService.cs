@@ -11,8 +11,8 @@ using System.Threading.Tasks;
 
 namespace Service
 {
-    // מחלקה סטטית 1
-    public static class ExtensionMethod
+    // מחלקה סטטית 2
+    public static class ExtensionService
     {
         public static IServiceCollection AddService(this IServiceCollection services)
         {

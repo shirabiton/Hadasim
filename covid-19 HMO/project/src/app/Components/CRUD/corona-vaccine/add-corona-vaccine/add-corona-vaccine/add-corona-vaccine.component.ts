@@ -22,12 +22,12 @@ export class AddCoronaVaccineComponent implements OnInit {
 
   constructor(private router: Router, private route: ActivatedRoute, private _coronaVaccineService: CoronaVaccineService) { }
 
-  public memberId!: number
+  memberId!: number
+  coronaVaccine!: CoronaVaccine
+  filteredCoronaVaccines:CoronaVaccine[] = []
 
   @Output()
   addForm!: FormGroup;
-  coronaVaccine!: CoronaVaccine
-  filteredCoronaVaccines:CoronaVaccine[] = []
 
   ngOnInit(): void {
     this.route.params.subscribe((param) => {
@@ -62,7 +62,6 @@ export class AddCoronaVaccineComponent implements OnInit {
     }
     return null;
   }
-
 
   save() {
     this.coronaVaccine = this.addForm.value;

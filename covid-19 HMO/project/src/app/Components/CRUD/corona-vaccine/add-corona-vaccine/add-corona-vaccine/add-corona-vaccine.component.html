@@ -3,7 +3,7 @@
 <ng-container *ngIf="filteredCoronaVaccines && filteredCoronaVaccines.length<4">
     <form [formGroup]="addForm">
 
-        <div>
+        <div style="padding-bottom: 3vh;">
             <mat-form-field color="accent">
                 <mat-label>תאריך</mat-label>
                 <input matInput type="date" formControlName="date">

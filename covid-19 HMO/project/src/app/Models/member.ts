@@ -1,4 +1,4 @@
-export class Member{
+export class Member {
     id!: number
     name!: string
     idNumber!: string
@@ -10,4 +10,6 @@ export class Member{
     mobilePhone?: string
     dateOfSickness?: Date
     dateOfRecovery?: Date
+    imageUrl?: string
+    image?: File 
 }

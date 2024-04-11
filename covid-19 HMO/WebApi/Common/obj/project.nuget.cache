@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jCfnxR/1HF8m7VmiHCAcvShYmPet+S4tmJzmEqsbxGnU//guR/3l0VjuTAv22EsKtSDTd729Us3Kf1+zgMh1xA==",
+  "dgSpecHash": "4oFwtOEkFQ6Ss0HSRSXg8IOWbiisQGd2ajpkj5Qc+KORgKSXEJnbBI8gn5KQ9JxmY1uBG0rI21HtmF5i51ZG6A==",
   "success": true,
   "projectFilePath": "D:\\Users\\User\\Desktop\\הדסים\\מבחן בית\\hadasim\\covid-19 HMO\\WebApi\\Common\\Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

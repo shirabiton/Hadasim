@@ -102,9 +102,9 @@
             <mat-label>תאריך הידבקות</mat-label>
             <input matInput type="date" formControlName="dateOfSickness">
             <mat-error
-            *ngIf="updateForm.controls['dateOfSickness'].invalid && (updateForm.controls['dateOfSickness'].dirty || updateForm.controls['dateOfSickness'].touched)">
-            <div *ngIf="updateForm.controls['dateOfSickness'].hasError('maxDateValidator')">ערך לא חוקי</div>
-        </mat-error>
+                *ngIf="updateForm.controls['dateOfSickness'].invalid && (updateForm.controls['dateOfSickness'].dirty || updateForm.controls['dateOfSickness'].touched)">
+                <div *ngIf="updateForm.controls['dateOfSickness'].hasError('maxDateValidator')">ערך לא חוקי</div>
+            </mat-error>
         </mat-form-field>
     </div>
 
@@ -113,10 +113,18 @@
             <mat-label>תאריך החלמה</mat-label>
             <input matInput type="date" formControlName="dateOfRecovery">
             <mat-error
-            *ngIf="updateForm.controls['dateOfRecovery'].invalid && (updateForm.controls['dateOfRecovery'].dirty || updateForm.controls['dateOfRecovery'].touched)">
-            <div *ngIf="updateForm.controls['dateOfRecovery'].hasError('maxDateValidator')">ערך לא חוקי</div>
-        </mat-error>
+                *ngIf="updateForm.controls['dateOfRecovery'].invalid && (updateForm.controls['dateOfRecovery'].dirty || updateForm.controls['dateOfRecovery'].touched)">
+                <div *ngIf="updateForm.controls['dateOfRecovery'].hasError('maxDateValidator')">ערך לא חוקי</div>
+            </mat-error>
         </mat-form-field>
+    </div>
+
+    <label>תמונת פרופיל</label>
+    <div style="padding-bottom: 3vh;">
+        <input type="file" (change)="handleImage($event)" accept="image/*" />
+    </div>
+    <div *ngIf="imageUrl">
+        <img [src]="imageUrl" alt="Uploaded" style="width: 20%; height: auto;" />
     </div>
 
 </form>

@@ -9,6 +9,8 @@ using Repository.Entities;
 namespace Repository.Interfaces
 
     // תיאור מקור הנתונים
+    // הזרקת תלויות. במקום להיות תלוי ב DB ניתן להיות תלוי ב ICONTEXT
+    // הפשטת הנתונים
 {
     public interface IContext
     {

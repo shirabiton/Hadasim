@@ -1,4 +1,4 @@
-import { Component, OnInit, Output } from '@angular/core';
+import { Component, OnChanges, OnInit, Output } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import { Router } from '@angular/router';
@@ -22,7 +22,6 @@ import { MatButtonModule } from '@angular/material/button';
 })
 
 export class MembersListComponent implements OnInit {
-
 
   public selectedMember!: Member
   public search = ''

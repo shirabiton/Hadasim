@@ -66,3 +66,20 @@ D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\Dat
 D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.pdb
 D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
 D:\Users\User\Desktop\הדסים\מבחן בית\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\bin\Debug\net6.0\DataContext.deps.json
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\bin\Debug\net6.0\DataContext.dll
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\bin\Debug\net6.0\DataContext.pdb
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\bin\Debug\net6.0\Repository.dll
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\bin\Debug\net6.0\Repository.pdb
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.dll
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.pdb
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+D:\Users\User\Desktop\hadasim\covid-19 HMO\WebApi\DataContext\obj\Debug\net6.0\ref\DataContext.dll

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -39,7 +40,7 @@ namespace Common.Dto
         }
         public string Phone { get; set; }
         [RegularExpression(@"^\d{10}$", ErrorMessage = "Mobile-phone number must contain exactly 10 digits.")]
-        public string MobilePhone { get; set; }
+        public string? MobilePhone { get; set; }
 
         private DateTime? _dateOfSickness;
         private DateTime? _dateOfRecovery;
@@ -85,9 +86,7 @@ namespace Common.Dto
                 _dateOfRecovery = value;
             }
         }
-
-
-
-
+        public string? ImageUrl { get; set; }
+        public IFormFile? Image { get; set; } // ייצוג ה URL של התמונה
     }
 }

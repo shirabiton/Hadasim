@@ -15,14 +15,15 @@ export class MemberService {
   getAllMembers(): Observable<Member[]> {
     return this._httpClient.get<Member[]>(`${this.baseUrl}`)
   }
+
   getMemberById(id: number): Observable<Member> {
     return this._httpClient.get<Member>(`${this.baseUrl}/${id}`)
   }
-  postMember(member: Member): Observable<Member> {
-    return this._httpClient.post<Member>(`${this.baseUrl}`, member)
+  postMember(formData: FormData): Observable<Member> {
+    return this._httpClient.post<Member>(`${this.baseUrl}`, formData)
   }
-  putMember(id:number, member: Member): Observable<Member> {
-    return this._httpClient.put<Member>(`${this.baseUrl}/${id}`, member)
+  putMember(id: number, formData: FormData): Observable<Member> {
+    return this._httpClient.put<Member>(`${this.baseUrl}/${id}`, formData)
   }
   deleteMember(id: number): Observable<Member> {
     return this._httpClient.delete<Member>(`${this.baseUrl}/${id}`)

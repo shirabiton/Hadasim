@@ -22,12 +22,12 @@ export class UpdateMemberComponent implements OnInit {
 
   constructor(private route: ActivatedRoute, private router: Router, private _memberService: MemberService) { }
 
-  public member!: Member
+  public member!: Member;
+  imageUrl: string | ArrayBuffer | null = null;
+  file: File | null = null;
 
   @Output()
   public updateForm!: FormGroup
-  public memberUpdate!: Member
-
 
   ngOnInit(): void {
     this.route.params.subscribe((param) => {
@@ -48,6 +48,7 @@ export class UpdateMemberComponent implements OnInit {
             mobilePhone: this.member.mobilePhone || '',
             dateOfSickness: null,
             dateOfRecovery: null,
+            imageUrl: this.member.imageUrl || '',
           });
 
         },
@@ -82,27 +83,50 @@ export class UpdateMemberComponent implements OnInit {
     return null;
   }
 
-  // public minDateValidator(control: any) {
-  //   const currentDate = new Date();
-  //   const selectedDate = control.value ? new Date(control.value) : null;
-  //   if (selectedDate && selectedDate < currentDate) {
-  //     return { minDateValidator: true }; // אימות נכשל
-  //   }
-  //   return null;
-  // }
+  handleImage(event: any): void {
+    this.file = event.target.files[0];
+    const reader = new FileReader();
+    reader.onload = () => {
+      this.imageUrl = reader.result;
+    };
+    if (this.file) {
+      reader.readAsDataURL(this.file);
+    }
+  }
 
-  public save() {
-    this.memberUpdate = this.updateForm.value
+  save() {
+    const formData = new FormData();
+    console.log("name", this.updateForm.get('name')!.value);
 
-    this._memberService.putMember(this.member.id, this.memberUpdate).subscribe({
-      next: (m) => {
-        console.log("Member updated: ", m)
-        this.router.navigate(['/members-list'])
+    formData.append("name", this.updateForm.get('name')!.value);
+    formData.append("idNumber", this.updateForm.get('idNumber')!.value);
+    formData.append("cityId", this.updateForm.get('cityId')!.value.toString()); // Ensure cityId is a string
+    formData.append("street", this.updateForm.get('street')!.value);
+    formData.append("houseNumber", this.updateForm.get('houseNumber')!.value.toString()); // Ensure houseNumber is a string
+    formData.append("birthDate", new Date(this.updateForm.get('birthDate')!.value).toISOString()); // Convert birthDate to ISO string
+    formData.append("phone", this.updateForm.get('phone')!.value);
+    formData.append("mobilePhone", this.updateForm.get('mobilePhone')?.value || ''); // Handle optional mobilePhone
+    formData.append("dateOfSickness", this.updateForm.get('dateOfSickness')?.value || ''); // Handle optional dateOfSickness
+    formData.append("dateOfRecovery", this.updateForm.get('dateOfRecovery')?.value || ''); // Handle optional dateOfRecovery
+
+    if (this.file) {
+      formData.append("image", this.file);
+    }
+
+    else {
+      formData.append("image", '');
+    }
+    console.log(formData);
+
+    this._memberService.putMember(this.member.id, formData).subscribe({
+      next: (res) => {
+        console.log(res);
+        this.router.navigate(['/members-list']);
       },
       error: (err) => {
-        console.log("Error updating member", err);
+        console.log(err);
       },
-    });
+    })
   }
 
 }

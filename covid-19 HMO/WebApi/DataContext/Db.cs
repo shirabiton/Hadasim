@@ -4,6 +4,7 @@ using Repository.Interfaces;
 
 namespace DataContext
 {
+    // מספקת גישה למסד הנתונים ומגשרת בין המחלקות לטבלאות
     public class Db : DbContext, IContext
     {
         public DbSet<Member> Members {  get; set; }
@@ -13,7 +14,8 @@ namespace DataContext
 
         public void Save()
         {
-            SaveChanges(); // !הסבר
+            // שיטה של המחלקה db context ושומרת את השינויים במסד הנתונים
+            SaveChanges();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

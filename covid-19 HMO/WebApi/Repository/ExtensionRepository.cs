@@ -11,10 +11,11 @@ using System.Threading.Tasks;
 namespace Repository
 {
     // מחלקה סטטית 1
-    public static class ExtensionService
+    public static class ExtensionRepository
     {
         public static IServiceCollection AddRepository(this IServiceCollection services)
         {
+            // הזרקת תלויות
             services.AddScoped<IRepository<Member>, MemberRepository>();
             services.AddScoped<IRepository<CorornaVaccine>, CorornaVaccineRepository>();
             services.AddScoped<IRepository<City>, CityRepository>();
