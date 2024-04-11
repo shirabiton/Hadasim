@@ -66,15 +66,10 @@
 
 ## צילומי מסך
 ![Homepage](screenshots/home.png)
-<!-- Empty line -->
 ![membersList](screenshots/members-list.png)
-<!-- Empty line -->
 ![addMember](screenshots/add-member.png)
-<!-- Empty line -->
 ![memberDetails](screenshots/member-details.png)
-<!-- Empty line -->
 ![updateMember](screenshots/update-member.png)
-<!-- Empty line -->
 ![addVaccine](screenshots/add-vaccine.png)
 
 
