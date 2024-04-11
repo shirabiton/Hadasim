@@ -1,5 +1,5 @@
 <form [formGroup]="form">
-    <p>יצרן:</p>
+    <p>:יצרן</p>
     <mat-radio-group formControlName="manufacturerId" aria-label="Select an option">
         <mat-radio-button *ngFor="let manufacturer of manufacturersList" [value]="manufacturer.id"
             class="radio-button">{{manufacturer.name}}</mat-radio-button>
