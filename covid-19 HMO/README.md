@@ -46,7 +46,7 @@ add-migration <migration-name>
 ```bash
 update-database
 ```
-כעת אתה מחובר למסד הנתונים😊
+כעת אתה מחובר למסד הנתונים😊  <br>
 2. הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
 
 
