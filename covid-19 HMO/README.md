@@ -35,13 +35,13 @@
 
 ### התקנה בצד השרת:
 
-1. היכנס לקובץ WebApi->WebApi.sIn ב Visual Studio והתקן את מסד הנתונים על המחשב:
-פתח את package manager console (וודא שאתה נמצא על הפרויקט DataContext)
-הרץ במסוף את הפקודה:
+1. היכנס לקובץ WebApi->WebApi.sIn ב Visual Studio והתקן את מסד הנתונים על המחשב: <br>
+פתח את package manager console (וודא שאתה נמצא על הפרויקט DataContext) <br>
+והרץ במסוף את הפקודה:
 ```bash
 add-migration <migration-name>
 ```
-להוספת מיגרציה חדשה.
+להוספת מיגרציה חדשה. <br>
 לאחר מכן הרץ את הפקודה:
 ```bash
 update-database
