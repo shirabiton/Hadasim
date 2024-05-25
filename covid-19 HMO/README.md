@@ -86,9 +86,11 @@
 כפי שצויין, פרויקט צד הלקוח תלוי בספרייה Angular Material. יש להתקין את הספרייה על ידי הפקודה:
 ```bash
 ng add @angular/material
+```bash
 או לחילופין, להתקין בקלות כל התקנה שהיא בפרויקט על ידי:
 ```bash
 npm install
+```bash
 
 
 
