@@ -4,8 +4,8 @@
 
 ## סקירה כללית
 
-פרויקט זה הוא יישום מלא שפותח באמצעות C# עבור צד השרת ו Angular עבור צד הלקוח.
-יישום זה משמש כמערכת מאגר נתונים לניהול חברי קופת חולים גדולה בזמן מגיפת הקורונה.
+פרויקט זה הוא יישום מלא שפותח באמצעות C# עבור צד השרת ו Angular עבור צד הלקוח. <br>
+יישום זה משמש כמערכת מאגר נתונים לניהול חברי קופת חולים גדולה בזמן מגיפת הקורונה. <br>
 הרשומה של כל חבר כוללת פרטים אישיים: שם מלא, מספר זהות, מגורים... וכן נתוני קורונה עבור החבר: תאריך הידבקות בקורונה (אופציונלי), תאריך החלמה (אופציונלי), ורשימת החיסונים הנדרשים.
 
 
@@ -19,7 +19,6 @@
 
 
 
-
 ## שימוש בטכנולוגיות
 
 - **צד השרת**: C# .NET Core
@@ -28,10 +27,10 @@
 
 
 
-
 ## התקנה
 
 ראשית הורד את המאגר למחשב המקומי שלך. 
+
 
 ### התקנה בצד השרת:
 
@@ -48,8 +47,6 @@ update-database
 ```
 כעת אתה מחובר למסד הנתונים😊  <br>
 2. הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
-
-
 
 
 ### התקנה בצד הלקוח:
@@ -75,8 +72,8 @@ ng serve
 
 
 
-
 ## צילומי מסך
+
 ![Homepage](screenshots/home.png)
 <br><hr><br>
 ![membersList](screenshots/members-list.png)
@@ -92,7 +89,6 @@ ng serve
 
 
 
-
 ## תלויות חיצוניות
 
 כפי שצויין, פרויקט צד הלקוח תלוי בספרייה Angular Material. יש להתקין את הספרייה על ידי הפקודה:
@@ -103,7 +99,6 @@ ng add @angular/material
 ```bash
 npm install
 ```
-
 
 
 
