@@ -37,18 +37,31 @@
 
 1. היכנס לקובץ WebApi->WebApi.sIn ב Visual Studio והתקן את מסד הנתונים על המחשב:
 פתח את package manager console (וודא שאתה נמצא על הפרויקט DataContext)
-הרץ במסוף את הפקודה '<add-migration <migration-name' להוספת מיגרציה חדשה.
-לאחר מכן הרץ את הפקודה 'update-database'.
+הרץ במסוף את הפקודה:
+```bash
+add-migration <migration-name>
+```
+להוספת מיגרציה חדשה.
+לאחר מכן הרץ את הפקודה:
+```bash
+update-database
+```
 כעת אתה מחובר למסד הנתונים😊
-2. הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
+3. הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
 
 
 
 
 ### התקנה בצד הלקוח:
 
-1. היכנס לשורת הפקודה של התיקייה שנקראת project. והרץ בה את הפקודה '. code'
-2. כעת הרץ בטרמינל של הפרויקט 'ng s' (שים לב שהניתוב בטרמינל נכון עבור פרויקט זה)
+1. היכנס לשורת הפקודה של התיקייה שנקראת project. והרץ בה את הפקודה:
+```bash
+code .
+```
+2. כעת הרץ את הפרויקט על ידי הפקודה בטרמינל:
+```bash
+ng s
+;;;
 
 
 
