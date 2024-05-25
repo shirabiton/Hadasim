@@ -47,7 +47,7 @@ add-migration <migration-name>
 update-database
 ```
 כעת אתה מחובר למסד הנתונים😊
-3. הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
+2. הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
 
 
 
