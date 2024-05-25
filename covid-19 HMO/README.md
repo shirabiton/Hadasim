@@ -84,10 +84,10 @@
 ## תלויות חיצוניות
 
 כפי שצויין, פרויקט צד הלקוח תלוי בספרייה Angular Material. יש להתקין את הספרייה על ידי הפקודה:
-```javascript
+```bash
 ng add @angular/material
 או לחילופין, להתקין בקלות כל התקנה שהיא בפרויקט על ידי:
-```javascript
+```bash
 npm install
 
 
