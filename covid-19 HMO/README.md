@@ -40,13 +40,13 @@
 ```bash
 add-migration <migration-name>
 ```
-להוספת מיגרציה חדשה. <br>
-לאחר מכן הרץ את הפקודה:
+  להוספת מיגרציה חדשה. <br>
+  לאחר מכן הרץ את הפקודה:
 ```bash
 update-database
 ```
-כעת אתה מחובר למסד הנתונים😊  <br>
-2. הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
+  כעת אתה מחובר למסד הנתונים😊  <br>
+  2. הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
 
 
 ### התקנה בצד הלקוח:
