@@ -38,7 +38,7 @@ git clone https://github.com/shirabiton/Hadasim.git
 
 ### התקנה בצד השרת:
 
-- היכנס לקובץ WebApi->WebApi.sIn ב Visual Studio והתקן את מסד הנתונים על המחשב: <br>
+היכנס לקובץ WebApi->WebApi.sIn ב Visual Studio והתקן את מסד הנתונים על המחשב: <br>
 פתח את package manager console (וודא שאתה נמצא על הפרויקט DataContext) <br>
 והרץ במסוף את הפקודה:
 ```bash
@@ -50,16 +50,16 @@ add-migration <migration-name>
 update-database
 ```
 כעת אתה מחובר למסד הנתונים 😊
-- הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
+הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
 
 
 ### התקנה בצד הלקוח:
 
-- היכנס לשורת הפקודה של התיקייה שנקראת project. והרץ בה את הפקודה:
+היכנס לשורת הפקודה של התיקייה שנקראת project. והרץ בה את הפקודה:
 ```bash
 code .
 ```
-- כעת הרץ את הפרויקט על ידי הפקודה בטרמינל:
+כעת הרץ את הפרויקט על ידי הפקודה בטרמינל:
 ```bash
 ng serve
 ```
