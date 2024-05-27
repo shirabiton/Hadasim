@@ -29,7 +29,7 @@
 
 ## התקנה
 
-ראשית הורד את הקובץ למחשב המקומי שלך ע"י הפקודה הבאה בשורת הפקודה של התיקייה הרצויה:
+ראשית הורד את הקובץ למחשב המקומי שלך על ידי הפקודה הבאה בשורת הפקודה של התיקייה הרצויה:
 ```bash
 git clone https://github.com/shirabiton/Hadasim.git
 ```
@@ -49,7 +49,7 @@ add-migration <migration-name>
 ```bash
 update-database
 ```
-כעת אתה מחובר למסד הנתונים😊
+כעת אתה מחובר למסד הנתונים 😊
 2. הרץ את הפרויקט WebApi, בזמן ההרצה ייפתח חלון הרצה בשם Swagger UI.
 
 
