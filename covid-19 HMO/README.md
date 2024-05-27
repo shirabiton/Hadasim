@@ -77,19 +77,24 @@ ng serve
 
 
 ## צילומי מסך
-
-![Homepage](screenshots/home.png)
-<br><hr><br>
-![membersList](screenshots/members-list.png)
-<br><hr><br>
-![addMember](screenshots/add-member.png)
-<br><hr><br>
-![memberDetails](screenshots/member-details.png)
-<br><hr><br>
-![updateMember](screenshots/update-member.png)
-<br><hr><br>
-![addVaccine](screenshots/add-vaccine.png)
-<br><hr><br>
+דף הבית:<br><br>
+![דף הבית](screenshots/home.png)
+<br><br>
+רשימת חברי הקופה:<br><br>
+![רשימת חברי הקופה](screenshots/members-list.png)
+<br><br>
+הוספת חבר קופה:<br><br>
+![הוספת חבר קופה](screenshots/add-member.png)
+<br><br>
+פרטי חבר קופה:<br><br>
+![פרטי חבר קופה](screenshots/member-details.png)
+<br><br>
+עדכון חבר קופה:<br><br>
+![עדכון חבר קופה](screenshots/update-member.png)
+<br><br>
+הוספת חיסון לחבר<br><br>
+![הוספת חיסון לחבר](screenshots/add-vaccine.png)
+<br><br>
 
 
 
