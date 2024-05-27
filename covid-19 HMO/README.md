@@ -76,7 +76,7 @@ ng serve
 
 
 
-## צילומי מסך
+## מדריך ויזואלי
 דף הבית:<br><br>
 ![דף הבית](screenshots/home.png)
 <br><br>
@@ -92,7 +92,7 @@ ng serve
 עדכון חבר קופה:<br><br>
 ![עדכון חבר קופה](screenshots/update-member.png)
 <br><br>
-הוספת חיסון לחבר<br><br>
+הוספת חיסון לחבר:<br><br>
 ![הוספת חיסון לחבר](screenshots/add-vaccine.png)
 <br><br>
 
